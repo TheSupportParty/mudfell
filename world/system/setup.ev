@@ -1,0 +1,78 @@
+@desc #2 =
+You stand on a beige carpet in the middle of a large circular room.
+
+Sofas, chairs and other similar seating is arranged in small clusters around
+a number of occasional tables, some complete with lamps in various styles
+glowing softly. While it isn't dark, the room is not completely lit, and the
+light around you fades to the blackness of the darkest night above you as it
+extends up the walls...
+
+...you think you might even see stars up there.
+
+The air is eerily still and slightly dusty, A very faint background hum can be
+heard in all directions. You can hear a quiet scratching noise, but can't work
+out which direction it comes from.
+
+Around the outer slowly curving wall of the room are a number of doors, apatures
+and portals of varying size, shape and composition. On each you can faintly make
+out a brass plaque screwed securely to the wall next to each, but the text on
+these is too small to read from this far away.
+# end
+
+@create/drop nearby chair
+# end
+
+@name nearby chair = nearby chair;chair;sofa
+# end
+
+@desc nearby chair =
+You look at one of the nearby chairs...
+
+It looks very old and not particularly comfortable. Thinking of sitting here fills
+you with a sense of unease.
+
+You don't want sit down.
+# end
+
+
+@create/drop nearby lamp
+# end
+
+@name nearby lamp = nearby lamp;lamp;light
+# end
+
+@desc nearby lamp =
+You look at one of the nearby lamps on a table...
+
+It looks quite old, and has a thin layer of dust on the shade. It glows without
+heat in a slightly |ggreen/|yyellow|n tinged light. For a reason you can't quite
+describe you feel that this lamp does not come from this place... wherever this
+is.
+
+Strangely, it appears to have no way to turn it on or off. The power cord dangles
+off the edge of the table and flows under a sofa. Lightly pulling it out you find
+that the plug was just laying on the floor.
+# end
+
+@create/drop nearby table
+#end
+
+@name nearby table = nearby table;table
+#end
+
+@desc nearby table =
+You look at one of the nearby tables...
+
+While it seems to be made of wood, you cannot identify of what kind; although
+this may be simply one you're unfamilar with the grain on the top surface makes
+you feel a deep sense of unease. It appears to be solidly built, albeit quite
+old, and has a thin layer of dust covering the top surface.
+
+There are mug rings at random intervals on this one, although you don't recall
+seeing any mugs anywhere.
+
+On one of the legs there are a large number of vertical scratches; each roughly two-
+-thirds of its height and quite deep.
+#end
+
+
